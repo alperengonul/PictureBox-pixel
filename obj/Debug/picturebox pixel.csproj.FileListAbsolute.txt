@@ -1,0 +1,10 @@
+C:\Users\Alperen\Desktop\3.sınıf 1.dönem ders\görsel programlama uyg\01.11.2021(dördüncü ders)\picturebox pixel\bin\Debug\picturebox pixel.exe.config
+C:\Users\Alperen\Desktop\3.sınıf 1.dönem ders\görsel programlama uyg\01.11.2021(dördüncü ders)\picturebox pixel\bin\Debug\picturebox pixel.exe
+C:\Users\Alperen\Desktop\3.sınıf 1.dönem ders\görsel programlama uyg\01.11.2021(dördüncü ders)\picturebox pixel\bin\Debug\picturebox pixel.pdb
+C:\Users\Alperen\Desktop\3.sınıf 1.dönem ders\görsel programlama uyg\01.11.2021(dördüncü ders)\picturebox pixel\obj\Debug\picturebox pixel.csprojAssemblyReference.cache
+C:\Users\Alperen\Desktop\3.sınıf 1.dönem ders\görsel programlama uyg\01.11.2021(dördüncü ders)\picturebox pixel\obj\Debug\picturebox_pixel.Form1.resources
+C:\Users\Alperen\Desktop\3.sınıf 1.dönem ders\görsel programlama uyg\01.11.2021(dördüncü ders)\picturebox pixel\obj\Debug\picturebox_pixel.Properties.Resources.resources
+C:\Users\Alperen\Desktop\3.sınıf 1.dönem ders\görsel programlama uyg\01.11.2021(dördüncü ders)\picturebox pixel\obj\Debug\picturebox pixel.csproj.GenerateResource.cache
+C:\Users\Alperen\Desktop\3.sınıf 1.dönem ders\görsel programlama uyg\01.11.2021(dördüncü ders)\picturebox pixel\obj\Debug\picturebox pixel.csproj.CoreCompileInputs.cache
+C:\Users\Alperen\Desktop\3.sınıf 1.dönem ders\görsel programlama uyg\01.11.2021(dördüncü ders)\picturebox pixel\obj\Debug\picturebox pixel.exe
+C:\Users\Alperen\Desktop\3.sınıf 1.dönem ders\görsel programlama uyg\01.11.2021(dördüncü ders)\picturebox pixel\obj\Debug\picturebox pixel.pdb
